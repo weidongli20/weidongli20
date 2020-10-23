@@ -15,12 +15,11 @@ Hi, I'm weidong —  **Data Analyst** with 10+ years of experience turning numbe
 
 ## I work on .. 💻
 
-![Python](https://img.shields.io/badge/-Python-lightgrey?style=flat&logo=python)&nbsp;
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-lightgrey?style=flat&logo=python"></a>
 \
-![Git](https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github)&nbsp;
+<a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github"></a>
 \
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-lightgrey?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-lightgrey?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
 
 
 
