@@ -1,4 +1,4 @@
-![Linkedin_Heading](images/56958.jpg)
+![Linkedin_Heading](images/heading.jpg)
 
 ## About Me.. 
 
