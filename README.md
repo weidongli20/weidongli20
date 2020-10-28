@@ -6,7 +6,7 @@ Hi, I'm Weidong Li —  **Data Analyst** with 10+ years of experience turning nu
 
 💡  Like to do data analysis, financial modelling and visualization.\
 🌱 Recently certified FinTech from Rice University \
-🎓 PhD in Geophysics with minor in Computer Science \
+🎓 PhD in Geophysics and minor in Computer Science \
 💬  Currently looking for a right opportunity in the field of Finance & Data Analysis. Feel free to reach out to me for working together, volunteering, or just for some interesting discussion.\
 ✉️  Shoot me an email at weidong.li@live.com and I'll try to respond as soon as I can.\
 📄  For more details please have a look at my Résumé.
