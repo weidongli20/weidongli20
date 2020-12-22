@@ -28,7 +28,7 @@ Hi, I'm Weidong Li —  **Data Analyst** with 10+ years of experience turning nu
 ### Connect with Me  🤝🏻 
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1cnpG3cxJCM3slQH6kBiC17p9X7iLXFM-/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-yellow"/></a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vSdT8j45WLhhfnDTVRcs7B8eYPAY6obi5YVYep5z6oap9d7UjBJrYIOew2ux4kf9BOFDADrSsndKcqQ/pub"><img src="https://img.shields.io/badge/-Resume-yellow"/></a>
 <a href="https://www.linkedin.com/in/weidongli20/"><img src="https://img.shields.io/badge/IN-Weidong%20Li-blue"/></a>
 <a href="mailto:weidong.li@live.com"><img src="https://img.shields.io/badge/%40-email%20me-brightgreen"/></a>
 </p>
