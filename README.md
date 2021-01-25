@@ -2,7 +2,7 @@
 
 ## About Me.. 
 
-Hi, I'm Weidong Li —  **Data Scientist** with 10+ years of experience turning numbers into results. Strong interest in **Data Science**, **Financial Modeling** & **Blockchain** 
+Hi, I'm Weidong Li —  **Data Scientist** with 10+ years of experience turning numbers into results. Strong interest in **Data Science**, **Financial Modeling**, & **Blockchain** 
 
 💡  Like to do data analysis, financial modelling and visualization.\
 🌱 Recently certified FinTech from Rice University \
