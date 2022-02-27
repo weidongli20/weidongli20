@@ -9,7 +9,7 @@ Hi, I'm Weidong Li —  **Data Scientist** with 10+ years of experience turning 
 🎓 PhD in Geophysics and Computer Science minor \
 💬  Currently looking for a right opportunity in the field of Finance & Data Analysis. Feel free to reach out to me for working together, volunteering, or just for some interesting discussion.\
 ✉️  Shoot me an email at weidong.li@live.com and I'll try to respond as soon as I can.\
-📄  For more details please have a look at my [Résumé](https://docs.google.com/document/d/e/2PACX-1vRoeFn_2zUWL_u4KIbmmNO2oJS21MSL_bmB8n4EJPALFL4RFTcRlyUve048oQ9E-OOV_ob9LaFncUJl/pub).
+📄  For more details please have a look at my [Résumé](https://www.linkedin.com/in/weidongli20/overlay/1635480482516/single-media-viewer?type=LINK&profileId=ACoAAAE3BY4BBykY5MNvE-DtlFZW_Js9Led1bJo&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bt8SJ3l%2BfTbqiVBHvzHQEsg%3D%3D).
 
 
 
