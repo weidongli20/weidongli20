@@ -28,7 +28,7 @@ Hi, I'm Weidong Li —  **Data Scientist** with 10+ years of experience turning 
 ### Connect with Me  🤝🏻 
 
 <p align="center">
-<a href="https://docs.google.com/document/d/e/2PACX-1vRoeFn_2zUWL_u4KIbmmNO2oJS21MSL_bmB8n4EJPALFL4RFTcRlyUve048oQ9E-OOV_ob9LaFncUJl/pub"><img src="https://img.shields.io/badge/-Resume-yellow"/></a>
+<a href="https://docs.google.com/document/u/1/d/e/2PACX-1vTOH12OQt_qQolsrgC6pgkd4ybhpMz13mr-HmPIeevgqZnD1Os3DvsCbz_eHO5T1AvFbaed1szgyAcl/pub"><img src="https://img.shields.io/badge/-Resume-yellow"/></a>
 <a href="https://www.linkedin.com/in/weidongli20/"><img src="https://img.shields.io/badge/IN-Weidong%20Li-blue"/></a>
 <a href="mailto:weidong.li@live.com"><img src="https://img.shields.io/badge/%40-email%20me-brightgreen"/></a>
 </p>
